@@ -66,7 +66,7 @@ def file_type(file_name):
 
 
 
-desktop_directory = r"C:\users\st567793\OneDrive - Loras College\desktop"
+desktop_directory = r"C:\users\Your Directory\desktop"
 
 user = input("Do you want to auto-arrange the desktop? (yes/no): ").lower()
 if user == "yes":
